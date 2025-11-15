@@ -1,17 +1,17 @@
-streamlit
+streamlit>=1.25
 requests
 Pillow
-numpy
+numpy<1.26
 opencv-python
 python-dotenv
-pandas
+pandas<2.2
 matplotlib
 scikit-image
 aiohttp
 watchdog
 boto3
 google-cloud-storage
-SQLAlchemy
+SQLAlchemy<2.0
 psycop
 paypalrestsdk
 
