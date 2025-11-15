@@ -4,7 +4,7 @@ Pillow
 numpy>=1.26
 opencv-python
 python-dotenv
-pandas<2.2
+pandas>=2.2.2
 matplotlib
 scikit-image
 aiohttp
