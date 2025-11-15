@@ -1,0 +1,8 @@
+# Ignore local environments
+snapaura-env/
+venv/
+__pycache__/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
