@@ -12,8 +12,8 @@ watchdog
 boto3
 google-cloud-storage
 SQLAlchemy
-sqlite3
 psycop
 paypalrestsdk
+
 
 
