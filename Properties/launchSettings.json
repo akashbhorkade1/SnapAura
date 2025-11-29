@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SnapAura": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
